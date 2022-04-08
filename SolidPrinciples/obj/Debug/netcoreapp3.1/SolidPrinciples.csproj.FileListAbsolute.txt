@@ -1,0 +1,14 @@
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.AssemblyInfo.cs
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.exe
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.deps.json
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.runtimeconfig.json
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.runtimeconfig.dev.json
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.genruntimeconfig.cache
